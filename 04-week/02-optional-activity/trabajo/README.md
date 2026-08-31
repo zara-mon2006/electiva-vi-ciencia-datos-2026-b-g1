@@ -22,7 +22,7 @@ Diagnóstico de datos aplicado a un proceso real de decisión financiera: **la c
 
 Las actividades formativas de las semanas 1 a 4 (opcionales, sin nota) se desarrollaron **en pareja** con Iván David Cardozo Charry, por lo que ambos exploramos desde el inicio del corte el mismo dataset. La actividad calificable de este Corte 1 es de **entrega individual**: se mantiene el mismo dataset ya explorado (evitando partir de cero), pero cada integrante desarrolló su propia pregunta de negocio y enfoque analítico independiente.
 
-| | Mi enfoque | Enfoque del compañero |
+| | Mi enfoque | Enfoque de mi compañero |
 |---|---|---|
 | **Pregunta de negocio** | Predicción del retorno futuro de cada acción para construir un portafolio de inversión | Análisis de patrones de volumen de negociación institucional como señal anticipada de movimientos de precio |
 | **Archivo(s) protagonista(s)** | `stock_prices.csv`, `financials.csv` | `trades.csv` |
