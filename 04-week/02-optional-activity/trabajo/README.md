@@ -152,7 +152,7 @@ flowchart LR
 
 ## 🆚 Comparación de enfoques con el trabajo del compañero
 
-| Criterio | Mi enfoque | Enfoque del compañero |
+| Criterio | Mi enfoque | Enfoque de mi compañero |
 |---|---|---|
 | Pregunta de negocio | Predicción de retorno para portafolio (top/bottom 200) | Volumen de trading como señal de movimientos de precio |
 | Archivo protagonista | `stock_prices.csv`, `financials.csv` | `trades.csv` |
