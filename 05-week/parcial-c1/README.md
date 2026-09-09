@@ -118,12 +118,13 @@ Finalmente, se explicó en inglés la diferencia conceptual entre analítica des
 ---
 
 ## 📁 Archivos de este repositorio
-
+---
 05-week/parcil-c1
 ├── README.md                       ← este archivo (resumen técnico)
 ├── Tipos_de_datos_Rappi.xlsx        ← anexo con la tabla de los 4 tipos de datos
 └── images/
     └── diagrama_flujo_rappi.png
-
+---
+---
 
 > Actividad desarrollada aplicando los conceptos de clasificación de datos y tipos de analítica a un caso real de negocio: Rappi.
