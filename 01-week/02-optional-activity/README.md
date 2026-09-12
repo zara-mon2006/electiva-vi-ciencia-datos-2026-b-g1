@@ -54,7 +54,7 @@ Primera etapa de un proyecto de ciencia de datos aplicado a un caso real: la con
 ```
 01-week/
 ├── README.md                          ← este archivo (resumen técnico)
-├── Semana1_Encuadre_JPX.pdf            ← documento completo
+├── OPCIONAL ACTIVITY 01.pdf            ← documento completo
 └── Datos_y_fuentes_Semana1.xlsx        ← anexo con la tabla de datos y fuentes
 ```
 
