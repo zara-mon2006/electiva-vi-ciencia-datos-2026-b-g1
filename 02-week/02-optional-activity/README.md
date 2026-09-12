@@ -82,7 +82,7 @@ Segunda etapa del proyecto de ciencia de datos aplicado al mercado bursátil de 
 ```
 02-week/
 ├── README.md                          ← este archivo (resumen técnico)
-├── Semana2_Clasificacion_BigData.pdf   ← documento completo
+├── OPCIONAL ACTIVITY 02.pdf   ← documento completo
 └── Fuentes_datos_Semana2.xlsx          ← anexo con inventario y V's del Big Data
 ```
 
