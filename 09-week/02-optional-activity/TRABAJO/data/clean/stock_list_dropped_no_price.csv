@@ -1,0 +1,297 @@
+securities_code,effective_date,name,section_products,new_market_segment,sector33_code,sector33_name,sector17_code,sector17_name,index_size_code,index_size,trade_date,close,issued_shares,market_cap,in_universe,instrument_type
+1408,2000-01-01,"ITbook Co.,LTD.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1606,2000-01-01,"Japan Drilling Co.,Ltd.",First Section (Domestic),Unassigned,1050,Mining,2,ENERGY RESOURCES,NA,Not in TOPIX size index,,,,,False,Equity
+1722,2000-01-01,"MISAWA HOMES CO.,LTD.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1728,2000-01-01,"MISAWA HOMES CHUGOKU CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1782,2000-01-01,"Joban Kaihatsu Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1824,2000-01-01,MAEDA CORPORATION,First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,4,TOPIX Mid400,,,,,False,Equity
+1846,2000-01-01,SUZUNUI CORPORATION,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1865,2000-01-01,"Asunaro Aoki Construction Co.,Ltd.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1868,2000-01-01,"Mitsui Home Co.,Ltd.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1883,2000-01-01,"MAEDA ROAD CONSTRUCTION CO.,LTD.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,4,TOPIX Mid400,,,,,False,Equity
+1896,2000-01-01,OBAYASHI ROAD CORPORATION,First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1906,2000-01-01,HOSODA CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1916,2000-01-01,"Something Holdings Co.,Ltd.",JASDAQ (Growth/Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1919,2000-01-01,"YAMADA SXL HOME CO.,LTD.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1924,2000-01-01,PanaHome Corporation,First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1931,2000-01-01,"NIPPON DENTSU CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1933,2000-01-01,SYSKEN Corporation,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1935,2000-01-01,"TTK Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1937,2000-01-01,"Seibu Electric Industry Co.,Ltd.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1956,2000-01-01,"NDS CO.,LTD.",First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,NA,Not in TOPIX size index,,,,,False,Equity
+1983,2000-01-01,TOSHIBA PLANT SYSTEMS & SERVICES CORPORATION,First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,6,TOPIX Small 1,,,,,False,Equity
+1984,2000-01-01,SANSHIN CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1987,2000-01-01,"SOLCOM Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+1989,2000-01-01,"Hokuriku Denwa Kouji Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2008,2000-01-01,"Masuda Flour Milling Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2131,2000-01-01,"Accordia Golf Co.,Ltd.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+2144,2000-01-01,Yamane Medical Corporation,JASDAQ (Growth/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2145,2000-01-01,DATALINKS CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2151,2000-01-01,TAKEEI CORPORATION,First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+2174,2000-01-01,GCA Corporation,First Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,6,TOPIX Small 1,,,,,False,Equity
+2228,2000-01-01,"CYBELE Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2362,2000-01-01,"YUMESHIN HOLDINGS CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2398,2000-01-01,TSUKUI HOLDINGS CORPORATION,First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+2400,2000-01-01,Sompo Care Message Inc.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2405,2000-01-01,"FUJIKOH COMPANY.,LIMITED",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2417,2000-01-01,"ZWEI CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2458,2000-01-01,"YUME TECHNOLOGY CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2538,2000-01-01,JAPAN FOOD&LIQUOR ALLIANCE INC.,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2580,2000-01-01,"Coca-Cola East Japan Co.,Ltd.",First Section (Domestic),Unassigned,3050,Foods,1,FOODS,4,TOPIX Mid400,,,,,False,Equity
+2608,2000-01-01,"BOSO OIL&FAT CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2611,2000-01-01,"SETTSU OIL MILL,INC.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2655,2000-01-01,"MAXVALU TOHOKU CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2675,2000-01-01,DYNAC HOLDINGS CORPORATION,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2703,2000-01-01,LITE-ON JAPAN LTD.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2714,2000-01-01,Pla Matels Corporation,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2719,2000-01-01,"KITAMURA CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+2772,2000-01-01,"Genky Stores,Inc.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+3022,2000-01-01,"YAMASHITA MEDICAL INSTRUMENTS CO.,LTD.",First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+3098,2000-01-01,cocokara fine Inc.,First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,6,TOPIX Small 1,,,,,False,Equity
+3125,2000-01-01,SHINNAIGAI TEXTILE LTD.,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3165,2000-01-01,"Fuhrmeister Electronics Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3171,2000-01-01,"MAXVALU KYUSHU CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3194,2000-01-01,"KIRINDO HOLDINGS CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+3209,2000-01-01,"KANEYO Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3230,2000-01-01,"Star Mica Co.,Ltd.",First Section (Domestic),Unassigned,8050,Real Estate,17,REAL ESTATE,NA,Not in TOPIX size index,,,,,False,Equity
+3250,2000-01-01,"A.D.Works Co.,Ltd.",First Section (Domestic),Unassigned,8050,Real Estate,17,REAL ESTATE,NA,Not in TOPIX size index,,,,,False,Equity
+3258,2000-01-01,"UNIZO Holdings Company,Limited",First Section (Domestic),Unassigned,8050,Real Estate,17,REAL ESTATE,6,TOPIX Small 1,,,,,False,Equity
+3313,2000-01-01,"NISSEI BUILD KOGYO CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+3318,2000-01-01,"MEGANESUPER CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3344,2000-01-01,WonderCorporation,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3366,2000-01-01,"ICHIROKUDO CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+3385,2000-01-01,"YAKUODO.Co.,Ltd.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,6,TOPIX Small 1,,,,,False,Equity
+3408,2000-01-01,"SAKAI OVEX CO.,LTD.",First Section (Domestic),Unassigned,3100,Textiles and Apparels,4,RAW MATERIALS & CHEMICALS,NA,Not in TOPIX size index,,,,,False,Equity
+3424,2000-01-01,"MIYAKO,Inc.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3515,2000-01-01,"OTSUKA KAGU,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3545,2000-01-01,"Defactostandard,Ltd.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+3564,2000-01-01,LIXIL VIVA CORPORATION,First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,6,TOPIX Small 1,,,,,False,Equity
+3606,2000-01-01,RENOWN INCORPORATED,First Section (Domestic),Unassigned,3100,Textiles and Apparels,4,RAW MATERIALS & CHEMICALS,NA,Not in TOPIX size index,,,,,False,Equity
+3630,2000-01-01,"Densan System Co.,Ltd.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+3654,2000-01-01,"HITO-Communications,Inc.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+3669,2000-01-01,"Mobile Create Co.,Ltd.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+3685,2000-01-01,BOOKOFF CORPORATION,First Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3689,2000-01-01,IGNIS LTD.,Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3711,2000-01-01,"SOTSU CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3724,2000-01-01,VeriServe Corporation,First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+3734,2000-01-01,"Intea Holdings,Inc.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3742,2000-01-01,"Minnano Wedding Co.,Ltd.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3751,2000-01-01,Japan Asia Group Limited,First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+3754,2000-01-01,"Excite Japan Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3756,2000-01-01,"MAMEZOU HOLDINGS CO.,LTD.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+3794,2000-01-01,"ND Software Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3822,2000-01-01,"Minori Solutions Co.,Ltd.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+3832,2000-01-01,"T&C MEDICAL SCIENCE,INC.",JASDAQ (Growth/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3938,2000-01-01,LINE Corporation,First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",4,TOPIX Mid400,,,,,False,Equity
+3943,2022-02-25,"OHISHI SANGYO CO.,LTD.",Second Section (Domestic),Standard Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+3975,2000-01-01,AOI TYO Holdings Inc.,First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+4033,2000-01-01,"NITTO FC CO.,LTD.",First Section (Domestic),Unassigned,3200,Chemicals,4,RAW MATERIALS & CHEMICALS,NA,Not in TOPIX size index,,,,,False,Equity
+4115,2000-01-01,"Honshu Chemical Industry Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4117,2000-01-01,Kawasaki Kasei Chemicals Ltd.,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4217,2000-01-01,"Hitachi Chemical Company,Ltd.",First Section (Domestic),Unassigned,3200,Chemicals,4,RAW MATERIALS & CHEMICALS,4,TOPIX Mid400,,,,,False,Equity
+4239,2000-01-01,"POLATECHNO CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4267,2022-02-09,LIGHTWORKS Corporation,Mothers (Domestic),Growth Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4268,2022-02-17,EDGE Technology Inc.,Mothers (Domestic),Growth Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4270,2022-02-24,BeeX Inc.,Mothers (Domestic),Growth Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4282,2000-01-01,"EPS Holdings,Inc.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+4291,2000-01-01,"JIEC Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4321,2000-01-01,"Kenedix, Inc.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+4342,2000-01-01,"SECOM JOSHINETSU CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4364,2000-01-01,MANAC INCORPORATED,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4399,2000-01-01,"Kufu Company Inc. (The company name will be changed to Kufu Intermediate Holding Company Inc. on Sep. 30, 2021)",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4497,2000-01-01,Locoguide Inc.,Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4508,2000-01-01,Mitsubishi Tanabe Pharma Corporation,First Section (Domestic),Unassigned,3250,Pharmaceutical,5,PHARMACEUTICAL,4,TOPIX Mid400,,,,,False,Equity
+4514,2000-01-01,"ASKA Pharmaceutical Co., Ltd.",First Section (Domestic),Unassigned,3250,Pharmaceutical,5,PHARMACEUTICAL,NA,Not in TOPIX size index,,,,,False,Equity
+4517,2000-01-01,"BIOFERMIN PHARMACEUTICAL CO.,LTD.",First Section (Domestic),Unassigned,3250,Pharmaceutical,5,PHARMACEUTICAL,NA,Not in TOPIX size index,,,,,False,Equity
+4555,2000-01-01,"SAWAI PHARMACEUTICAL CO.,LTD.",First Section (Domestic),Unassigned,3250,Pharmaceutical,5,PHARMACEUTICAL,4,TOPIX Mid400,,,,,False,Equity
+4557,2000-01-01,"MEDICAL & BIOLOGICAL LABORATORIES CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4585,2000-01-01,UMN Pharma Inc.,Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4640,2000-01-01,"ANDOR Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4656,2000-01-01,SUN・LIFE CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4669,2000-01-01,"NIPPAN RENTAL Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4695,2000-01-01,MYSTAR ENGINEERING CORP.,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4696,2000-01-01,WATABE WEDDING CORPORATION,First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+4734,2000-01-01,"Being Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4775,2000-01-01,"SOGO MEDICAL CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+4779,2000-01-01,"SOFTBRAIN Co.,Ltd.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+4793,2000-01-01,FUJITSU BROAD SOLUTION & CONSULTING Inc.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4842,2000-01-01,USEN CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4924,2000-01-01,"Ci:z Holdings Co.,Ltd.",First Section (Domestic),Unassigned,3200,Chemicals,4,RAW MATERIALS & CHEMICALS,6,TOPIX Small 1,,,,,False,Equity
+4952,2000-01-01,SDS Biotech K.K.,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4965,2000-01-01,"Soda Aromatic Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+4989,2000-01-01,"IHARA CHEMICAL INDUSTRY CO.,LTD.",First Section (Domestic),Unassigned,3200,Chemicals,4,RAW MATERIALS & CHEMICALS,NA,Not in TOPIX size index,,,,,False,Equity
+5002,2000-01-01,"VITEC HOLDINGS CO.,LTD.",First Section (Domestic),Unassigned,3300,Oil and Coal Products,2,ENERGY RESOURCES,4,TOPIX Mid400,,,,,False,Equity
+5012,2000-01-01,TonenGeneral Sekiyu K.K.,First Section (Domestic),Unassigned,3300,Oil and Coal Products,2,ENERGY RESOURCES,4,TOPIX Mid400,,,,,False,Equity
+5025,2022-02-25,MERCURY REALTECH INNOVATOR Inc.,Mothers (Domestic),Growth Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+5289,2000-01-01,"HANEDA ZENITH HOLDINGS Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+5413,2000-01-01,"Nisshin Steel Co.,Ltd.",First Section (Domestic),Unassigned,3450,Iron and Steel,7,STEEL & NONFERROUS METALS,6,TOPIX Small 1,,,,,False,Equity
+5453,2000-01-01,"Toyo Kohan Co.,Ltd.",First Section (Domestic),Unassigned,3450,Iron and Steel,7,STEEL & NONFERROUS METALS,NA,Not in TOPIX size index,,,,,False,Equity
+5456,2000-01-01,"ASAHI INDUSTRIES CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+5614,2000-01-01,"Kawakin Holdings Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+5690,2000-01-01,REVER HOLDINGS CORPORATION,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+5758,2000-01-01,"FCM CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+5815,2000-01-01,"The Mie Bank,Ltd.",First Section (Domestic),Unassigned,3500,Nonferrous Metals,7,STEEL & NONFERROUS METALS,NA,Not in TOPIX size index,,,,,False,Equity
+5912,2000-01-01,OSJB Holdings Corporation,First Section (Domestic),Unassigned,2050,Construction,3,CONSTRUCTION & MATERIALS,6,TOPIX Small 1,,,,,False,Equity
+6064,2000-01-01,ACTCALL INC.,Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6065,2000-01-01,"LIKE Kids,Inc.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+6077,2000-01-01,"N・FIELD Co.,Ltd.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+6079,2000-01-01,"ENERES Co.,Ltd.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6084,2000-01-01,"O-uccino,Inc.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6097,2000-01-01,"NIPPON VIEW HOTEL CO.,LTD.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+6112,2000-01-01,"Kojima Iron Works Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6163,2000-01-01,Hitachi Zosen Fukui Corporation,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6187,2000-01-01,LITALICO Inc.,First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+6256,2000-01-01,"NuFlare Technology,Inc.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6274,2000-01-01,"Yamaha Motor Robotics Holdings Co.,Ltd.",First Section (Domestic),Unassigned,3600,Machinery,8,MACHINERY,NA,Not in TOPIX size index,,,,,False,Equity
+6281,2000-01-01,"MAEDASEISAKUSHO CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6299,2000-01-01,"Kobelco Eco-Solutions Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6300,2000-01-01,APIC YAMADA CORPORATION,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6314,2000-01-01,ISHII TOOL & ENGINEERING CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6397,2000-01-01,"GO Iron Works Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6414,2000-01-01,"KAWASAKI THERMAL ENGINEERING CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6478,2000-01-01,"DAIBEA CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6531,2000-01-01,"REFINVERSE,Inc.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6534,2000-01-01,D.A.Consortium Holdings Inc.,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6581,2000-01-01,"Hitachi Koki Co.,Ltd.",First Section (Domestic),Unassigned,3600,Machinery,8,MACHINERY,NA,Not in TOPIX size index,,,,,False,Equity
+6591,2000-01-01,"NISHISHIBA ELECTRIC CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6624,2000-01-01,"TABUCHI ELECTRIC CO.,LTD.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6628,2000-01-01,ONKYO HOME ENTERTAINMENT CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6636,2000-01-01,SORGHUM JAPAN HOLDINGS Corp.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6669,2000-01-01,CCS Inc.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6709,2000-01-01,"MEISEI ELECTRIC CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6716,2000-01-01,"TECHNICAL ELECTRON Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6719,2000-01-01,FUJITSU COMPONENT LIMITED,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6722,2000-01-01,A&T Corporation,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6747,2000-01-01,"KI HOLDINGS CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6751,2000-01-01,"Japan Radio Co.,Ltd.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6756,2000-01-01,Hitachi Kokusai Electric Inc.,First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6767,2000-01-01,"MITSUMI ELECTRIC CO.,LTD.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6773,2000-01-01,PIONEER CORPORATION,First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,6,TOPIX Small 1,,,,,False,Equity
+6791,2000-01-01,"Nippon Columbia Co.,Ltd.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+6796,2000-01-01,"CLARION CO.,LTD.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,6,TOPIX Small 1,,,,,False,Equity
+6816,2000-01-01,"ALPINE ELECTRONICS,INC.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,6,TOPIX Small 1,,,,,False,Equity
+6839,2000-01-01,"FUNAI ELECTRIC CO.,LTD.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6852,2000-01-01,"TECHNOL SEVEN CO.,LTD",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6860,2000-01-01,"Panasonic Industrial Devices SUNX Co.,Ltd.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6889,2000-01-01,"ODELIC CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6895,2000-01-01,"DIAMOND ELECTRIC MFG. CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6911,2000-01-01,"New Japan Radio Co.,Ltd.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6935,2000-01-01,"Japan Digital Laboratory Co.,Ltd.",First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+6944,2000-01-01,AIREX INC.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6945,2000-01-01,FUJITSU FRONTECH LIMITED,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6972,2000-01-01,"ELNA CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+6985,2000-01-01,U-Shin Ltd.,First Section (Domestic),Unassigned,3650,Electric Appliances,9,ELECTRIC APPLIANCES & PRECISION INSTRUMENTS,NA,Not in TOPIX size index,,,,,False,Equity
+7135,2022-01-04,"FUJIKYU HOLDINGS CO.,LTD. **",First Section (Domestic),Prime Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7190,2000-01-01,"Mercuria Investment Co.,Ltd.",First Section (Domestic),Unassigned,7100,Securities and Commodities Futures,16,FINANCIALS (EX BANKS),NA,Not in TOPIX size index,,,,,False,Equity
+7230,2000-01-01,"NISSIN KOGYO CO.,LTD.",First Section (Domestic),Unassigned,3700,Transportation Equipment,6,AUTOMOBILES & TRANSPORTATION EQUIPMENT,6,TOPIX Small 1,,,,,False,Equity
+7248,2000-01-01,CALSONIC KANSEI CORPORATION,First Section (Domestic),Unassigned,3700,Transportation Equipment,6,AUTOMOBILES & TRANSPORTATION EQUIPMENT,NA,Not in TOPIX size index,,,,,False,Equity
+7251,2000-01-01,KEIHIN CORPORATION,First Section (Domestic),Unassigned,3700,Transportation Equipment,6,AUTOMOBILES & TRANSPORTATION EQUIPMENT,6,TOPIX Small 1,,,,,False,Equity
+7260,2000-01-01,"Fuji Kiko Co.,Ltd.",First Section (Domestic),Unassigned,3700,Transportation Equipment,6,AUTOMOBILES & TRANSPORTATION EQUIPMENT,NA,Not in TOPIX size index,,,,,False,Equity
+7274,2000-01-01,SHOWA CORPORATION,First Section (Domestic),Unassigned,3700,Transportation Equipment,6,AUTOMOBILES & TRANSPORTATION EQUIPMENT,6,TOPIX Small 1,,,,,False,Equity
+7312,2000-01-01,"TASAKI & Co.,Ltd.",First Section (Domestic),Unassigned,3700,Transportation Equipment,6,AUTOMOBILES & TRANSPORTATION EQUIPMENT,NA,Not in TOPIX size index,,,,,False,Equity
+7321,2000-01-01,"Kansai Mirai Financial Group,Inc.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,6,TOPIX Small 1,,,,,False,Equity
+7323,2000-01-01,"ipet Insurance CO.,Ltd.",Mothers (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7404,2000-01-01,"Showa Aircraft Industry Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7432,2000-01-01,DALTON CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7448,2000-01-01,JEANS MATE CORPORATION,First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+7465,2000-01-01,"MAXVALU HOKKAIDO CO.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7517,2000-01-01,"KURODA ELECTRIC CO.,LTD.",First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+7519,2000-01-01,"GOYO INTEX CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7577,2000-01-01,"HAPiNS Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7587,2000-01-01,PALTEK CORPORATION,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7591,2000-01-01,"EXCEL CO.,LTD.",First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+7594,2000-01-01,Maruka Corporation,First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+7612,2000-01-01,Nuts Inc.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7688,2000-01-01,Miahelsa Corporation,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7703,2000-01-01,"Kawasumi Laboratories,Incorporated",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7768,2000-01-01,"JECO CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7825,2000-01-01,DUNLOP SPORTS CO.LTD.,First Section (Domestic),Unassigned,3800,Other Products,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+7834,2000-01-01,"MAJESTY GOLF Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7853,2000-01-01,"Food Planet,Inc.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7869,2000-01-01,"NIHON FORM SERVICE CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7873,2000-01-01,ARRK CORPORATION,First Section (Domestic),Unassigned,3800,Other Products,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+7889,2000-01-01,KUWAYAMA CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7891,2000-01-01,"JAPAN U-PICA COMPANY,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7913,2000-01-01,"Tosho Printing Company,Limited",First Section (Domestic),Unassigned,3800,Other Products,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+7920,2000-01-01,Miura Printing Corporation,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+7959,2000-01-01,OLIVER CORPORATION,First Section (Domestic),Unassigned,3800,Other Products,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+7968,2000-01-01,Takata Corporation,First Section (Domestic),Unassigned,3800,Other Products,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+8028,2000-01-01,"FamilyMart Co.,Ltd.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,4,TOPIX Mid400,,,,,False,Equity
+8036,2000-01-01,Hitachi High-Tech Corporation,First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,4,TOPIX Mid400,,,,,False,Equity
+8044,2000-01-01,"DAITO GYORUI CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8087,2000-01-01,"FURUSATO INDUSTRIES,LTD.",First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8090,2000-01-01,"SHOKO CO.,LTD.",First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8108,2000-01-01,"YAMAEHISANO Co.,Ltd.",First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8148,2000-01-01,"UEHARA SEI SHOJI CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8170,2000-01-01,Aderans Company Limited,First Section (Domestic),Unassigned,3800,Other Products,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+8175,2000-01-01,"BEST DENKI CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8184,2000-01-01,"SHIMACHU CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,4,TOPIX Mid400,,,,,False,Equity
+8186,2000-01-01,FUJI CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8191,2000-01-01,"HIKARI FURNITURE Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8201,2000-01-01,"SAGAMI GROUP HOLDINGS Co.,Ltd.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8205,2000-01-01,"SHAKLEE GLOBAL GROUP,INC.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8245,2000-01-01,"MARUEI DEPARTMENT STORE COMPANY,LIMITED",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8251,2000-01-01,"PARCO CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8257,2000-01-01,"Sanyo Department Store Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8274,2000-01-01,"TOBU STORE CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+8298,2000-01-01,FAMILY INC.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8324,2000-01-01,"The Daishi Bank,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,4,TOPIX Mid400,,,,,False,Equity
+8325,2000-01-01,"The Hokuetsu Bank,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8356,2000-01-01,"The Juroku Bank,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,6,TOPIX Small 1,,,,,False,Equity
+8363,2000-01-01,"The Hokkoku Bank,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,6,TOPIX Small 1,,,,,False,Equity
+8374,2000-01-01,"The Daisan Bank,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8379,2000-01-01,"The Hiroshima Bank,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,4,TOPIX Mid400,,,,,False,Equity
+8396,2000-01-01,"The Eighteenth Bank,Limited",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8397,2000-01-01,"The Bank of Okinawa,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8423,2000-01-01,"Accretive Co.,Ltd.",First Section (Domestic),Unassigned,7200,Other Financing Business,16,FINANCIALS (EX BANKS),NA,Not in TOPIX size index,,,,,False,Equity
+8519,2000-01-01,"POCKET CARD CO.,LTD.",First Section (Domestic),Unassigned,7200,Other Financing Business,16,FINANCIALS (EX BANKS),NA,Not in TOPIX size index,,,,,False,Equity
+8529,2000-01-01,"THE MINATO BANK,LTD.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8543,2000-01-01,Kansai Urban Banking Corporation,First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8545,2000-01-01,"Oki Electric Cable Co.,Ltd.",First Section (Domestic),Unassigned,7050,Banks,15,BANKS,NA,Not in TOPIX size index,,,,,False,Equity
+8586,2000-01-01,Hitachi Capital Corporation,First Section (Domestic),Unassigned,7200,Other Financing Business,16,FINANCIALS (EX BANKS),4,TOPIX Mid400,,,,,False,Equity
+8589,2000-01-01,"APLUS FINANCIAL Co.,Ltd.",First Section (Domestic),Unassigned,7200,Other Financing Business,16,FINANCIALS (EX BANKS),NA,Not in TOPIX size index,,,,,False,Equity
+8625,2000-01-01,"TAKAGI SECURITIES CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8648,2000-01-01,Bank of America Corporation,First Section (Foreign),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8685,2000-01-01,"American International Group,Inc.",First Section (Foreign),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8686,2000-01-01,AFLAC Incorporated,First Section (Foreign),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8692,2000-01-01,"DSB Co.,Ltd.",First Section (Domestic),Unassigned,7100,Securities and Commodities Futures,16,FINANCIALS (EX BANKS),NA,Not in TOPIX size index,,,,,False,Equity
+8703,2000-01-01,"kabu.com Securities Co.,Ltd.",First Section (Domestic),Unassigned,7100,Securities and Commodities Futures,16,FINANCIALS (EX BANKS),6,TOPIX Small 1,,,,,False,Equity
+8709,2000-01-01,"INVAST SECURITIES CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8728,2000-01-01,"MONEY SQUARE HOLDINGS,INC.",First Section (Domestic),Unassigned,7100,Securities and Commodities Futures,16,FINANCIALS (EX BANKS),NA,Not in TOPIX size index,,,,,False,Equity
+8729,2000-01-01,Sony Financial Holdings Inc.,First Section (Domestic),Unassigned,7150,Insurance,16,FINANCIALS (EX BANKS),4,TOPIX Mid400,,,,,False,Equity
+8787,2000-01-01,"UCS CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8840,2000-01-01,DAIKYO INCORPORATED,First Section (Domestic),Unassigned,8050,Real Estate,17,REAL ESTATE,6,TOPIX Small 1,,,,,False,Equity
+8851,2000-01-01,"URBAN LIFE Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8870,2000-01-01,"Sumitomo Real Estate Sales Co.,Ltd.",First Section (Domestic),Unassigned,8050,Real Estate,17,REAL ESTATE,NA,Not in TOPIX size index,,,,,False,Equity
+8885,2000-01-01,"L'attrait Co.,Ltd.",JASDAQ (Growth/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+8933,2000-01-01,NTT URBAN DEVELOPMENT CORPORATION,First Section (Domestic),Unassigned,8050,Real Estate,17,REAL ESTATE,4,TOPIX Mid400,,,,,False,Equity
+9062,2000-01-01,"NIPPON EXPRESS CO.,LTD.",First Section (Domestic),Unassigned,5050,Land Transportation,12,TRANSPORTATION & LOGISTICS,4,TOPIX Mid400,,,,,False,Equity
+9133,2000-01-01,TOEI REEFER LINE LTD.,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9147,2022-01-04,"NIPPON EXPRESS HOLDINGS,INC. **",First Section (Domestic),Prime Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9213,2022-02-04,SEYFERT LTD.,JASDAQ (Standard/Domestic),Standard Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9214,2022-02-03,"Recovery International Co.,Ltd.",Mothers (Domestic),Growth Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9215,2022-02-22,"CaSy Co.,Ltd.",Mothers (Domestic),Growth Market,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9266,2000-01-01,"Ikka Dining Project.,Ltd.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+9277,2000-01-01,"SOGO MEDICAL HOLDINGS CO.,LTD.",First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+9370,2000-01-01,"Yusen Logistics Co.,Ltd.",First Section (Domestic),Unassigned,5200,Warehousing and Harbor Transportation Service,12,TRANSPORTATION & LOGISTICS,NA,Not in TOPIX size index,,,,,False,Equity
+9373,2000-01-01,"Nikko Travel Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9437,2000-01-01,"NTT DOCOMO,INC.",First Section (Domestic),Unassigned,5250,Information & Communication,10,"IT & SERVICES, OTHERS",1,TOPIX Core30,,,,,False,Equity
+9624,2000-01-01,"CHODAI CO.,LTD.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+9671,2000-01-01,"YOMIURI LAND.CO.,LTD.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",NA,Not in TOPIX size index,,,,,False,Equity
+9674,2000-01-01,"KAGETSUENKANKO Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9681,2000-01-01,TOKYO DOME CORPORATION,First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+9707,2000-01-01,"UNIMAT Retirement Community Co.,Ltd.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9747,2000-01-01,ASATSU-DK INC.,First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",4,TOPIX Mid400,,,,,False,Equity
+9758,2000-01-01,"JAPAN SYSTEMS CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9764,2000-01-01,"Giken Kogyo Co.,Ltd.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9792,2000-01-01,"NICHIIGAKKAN CO.,LTD.",First Section (Domestic),Unassigned,9050,Services,10,"IT & SERVICES, OTHERS",6,TOPIX Small 1,,,,,False,Equity
+9797,2000-01-01,"NIPPON ENGINEERING CONSULTANTS CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9826,2000-01-01,JEUGIA Corporation,Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9829,2000-01-01,"NAGANO TOKYU DEPARTMENT STORE CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9836,2000-01-01,LEVI STRAUSS JAPAN KABUSHIKI KAISHA,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9899,2000-01-01,"Jolly-Pasta CO.,LTD.",Second Section (Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9909,2000-01-01,AIKO CORPORATION,JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9943,2000-01-01,"COCO'S JAPAN CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
+9957,2000-01-01,SHOWA SHELL SEKIYU K.K.,First Section (Domestic),Unassigned,6050,Wholesale Trade,13,COMMERCIAL & WHOLESALE TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+9966,2000-01-01,FUJIKYU CORPORATION,First Section (Domestic),Unassigned,6100,Retail Trade,14,RETAIL TRADE,NA,Not in TOPIX size index,,,,,False,Equity
+9992,2000-01-01,"RIKENGREEN CO.,LTD.",JASDAQ (Standard/Domestic),Unassigned,UNC,Unclassified,UNC,Unclassified,NA,Not in TOPIX size index,,,,,False,Equity
