@@ -1,6 +1,6 @@
 # Semana 6 · ERD de mi caso: listado de valores de la Bolsa de Tokio
 
-###ESTUDIANTES: ZARA MELISA MONROY VERA E IVÁN DAVID CARDOZO CHARRY
+## ESTUDIANTES: ZARA MELISA MONROY VERA E IVÁN DAVID CARDOZO CHARRY
 
 Asignatura: Ciencia de Datos · Ingeniería Industrial · Corporación Universitaria del Huila (CORHUILA) · 2026-B · Corte 2.
 Guía de la actividad: *Semana 6 · ERD de tu caso* (formativa, opcional).
